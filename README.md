@@ -24,6 +24,11 @@
 
 Το **Secret Sanctum: Chrono Vault** είναι ένα σκοτεινό, ατμοσφαιρικό 3D δωμάτιο απόδρασης για Android. Εξερευνάς ένα βικτωριανό εργαστήριο, εξετάζεις κάθε αντικείμενο από κοντά, ενώνεις στοιχεία και λύνεις γρίφους που συνδέονται μεταξύ τους. Με τον **Χρονικό Φακό** βλέπεις το ίδιο δωμάτιο σε άλλη εποχή, και ό,τι κρύβει το παρελθόν μπορεί να φαίνεται μόνο εκεί.
 
+Και δεν είναι μόνο το παρελθόν που κρύβεται σε αυτό το δωμάτιο.
+
+> [!WARNING]
+> Περιέχει σκοτεινή ατμόσφαιρα και ξαφνικούς τρόμους. Μπορείς να τους κλείσεις από τις **Ρυθμίσεις → Ξαφνικοί τρόμοι: Όχι**.
+
 ### 📸 Εικόνες
 
 <table>
@@ -90,6 +95,11 @@
 > *October 1895. Professor Vance's study is still warm; the fire burns, the pendulum ticks. The professor is gone. The heavy door is sealed, and something in the room does not belong to this time.*
 
 **Secret Sanctum: Chrono Vault** is a dark, atmospheric 3D escape room for Android. Explore a Victorian study, examine every object up close, connect the clues and solve puzzles that build on one another. With the **Chrono Lens** you see the same room in another era, and what the past hides may only show there.
+
+And the past is not the only thing hiding in this room.
+
+> [!WARNING]
+> Contains a dark atmosphere and sudden scares. You can turn them off in **Settings → Jump scares: Off**.
 
 ### ✨ Features
 
