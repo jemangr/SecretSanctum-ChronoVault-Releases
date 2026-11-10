@@ -53,6 +53,7 @@
 - ⏳ **Ο Χρονικός Φακός.** Το ίδιο δωμάτιο σε άλλη εποχή, με άλλα φώτα, άλλη ατμόσφαιρα και άλλα μυστικά.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
+- 🔠 **Μεγάλα, ευανάγνωστα γράμματα** στο κινητό, και ένα μάτι που κρύβει τα εργαλεία, για να βλέπεις καθαρά το δωμάτιο.
 - 🎙️ **Αφήγηση** σε ελληνικά και αγγλικά, με κινηματογραφικές σκηνές.
 - 💡 **Βοήθειες** όταν κολλήσεις, που σε σπρώχνουν χωρίς να σου χαλάνε τη λύση.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
@@ -109,6 +110,7 @@ And the past is not the only thing hiding in this room.
 - ⏳ **The Chrono Lens:** the same room in another era, with different light, mood and secrets.
 - 🧩 **Puzzles that connect:** a clue here opens something there.
 - 📖 **Vance's story**, piece by piece, in notes, discarded drafts and journal pages.
+- 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
 - 🎙️ **Narration** in Greek and English, with cinematic scenes.
 - 💡 **Hints** that nudge you without spoiling the answer.
 - 📳 **Haptics** on levers, switches and locks.
