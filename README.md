@@ -52,6 +52,7 @@
 - 🔍 **Εξέταση από κοντά.** Πάτα ένα σημείο που λάμπει και η κάμερα πηγαίνει κοντά. Ανοίγεις συρτάρια, γυρίζεις δίσκους, διαβάζεις σημειώματα.
 - ⏳ **Ο Χρονικός Φακός.** Το ίδιο δωμάτιο σε άλλη εποχή, με άλλα φώτα, άλλη ατμόσφαιρα και άλλα μυστικά.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
+- 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
 - 🎙️ **Αφήγηση** σε ελληνικά και αγγλικά, με κινηματογραφικές σκηνές.
 - 💡 **Βοήθειες** όταν κολλήσεις, που σε σπρώχνουν χωρίς να σου χαλάνε τη λύση.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
@@ -63,14 +64,14 @@
 |---|---|
 | **Λήψη** | **[📲 SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (πάντα η τελευταία έκδοση) |
 | **Συσκευές** | Android 8.0 ή νεότερο, σε οριζόντια θέση |
-| **Μέγεθος** | περίπου 104 MB |
+| **Μέγεθος** | περίπου 102 MB |
 
 1. Πάτα το κουμπί λήψης από το κινητό σου.
 2. Άνοιξε το αρχείο που κατέβηκε και πάτα **Εγκατάσταση**. Αν σου ζητηθεί, επίτρεψε την εγκατάσταση από αυτή την πηγή.
 3. Χαμήλωσε τα φώτα, βάλε ακουστικά και ξεκίνα.
 
 > [!TIP]
-> Αν το κινητό σου είναι πιο παλιό, στις **Ρυθμίσεις** άλλαξε τα «Γραφικά» σε «Ισορροπημένα» για πιο ομαλή κίνηση.
+> Τα «Γραφικά» ξεκινούν στα «Ισορροπημένα», που τρέχουν ομαλά στα περισσότερα κινητά. Σε δυνατό κινητό δοκίμασε **Ρυθμίσεις → Γραφικά: Κινηματογραφικά**.
 
 ### 🔄 Ενημερώσεις
 
@@ -107,6 +108,7 @@ And the past is not the only thing hiding in this room.
 - 🔍 **Close-up inspection:** tap a glowing spot and the camera moves in. Open drawers, turn dials, read notes.
 - ⏳ **The Chrono Lens:** the same room in another era, with different light, mood and secrets.
 - 🧩 **Puzzles that connect:** a clue here opens something there.
+- 📖 **Vance's story**, piece by piece, in notes, discarded drafts and journal pages.
 - 🎙️ **Narration** in Greek and English, with cinematic scenes.
 - 💡 **Hints** that nudge you without spoiling the answer.
 - 📳 **Haptics** on levers, switches and locks.
@@ -114,13 +116,13 @@ And the past is not the only thing hiding in this room.
 
 ### 📥 Install
 
-**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 104 MB.
+**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 102 MB.
 
 1. Tap the download button on your phone.
 2. Open the downloaded file and tap **Install**. If asked, allow installs from this source.
 3. Dim the lights, put on headphones and begin.
 
-On older phones, pick **Settings → Quality: Balanced** for smoother play.
+Graphics start on **Balanced**, which runs smoothly on most phones. On a powerful phone, try **Settings → Graphics: Cinematic**.
 
 ### 🔄 Updates
 
