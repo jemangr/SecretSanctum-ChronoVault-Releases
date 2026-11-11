@@ -53,6 +53,7 @@
 - ⏳ **Ο Χρονικός Φακός.** Το ίδιο δωμάτιο σε άλλη εποχή, με άλλα φώτα, άλλη ατμόσφαιρα και άλλα μυστικά.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
+- 🚪 **Τρία δωμάτια, ένα τέλος που διαλέγεις.** Το γραφείο, το υπόγειο και ό,τι κρύβεται πίσω από την τελευταία πόρτα. Η ιστορία κλείνει με δύο τρόπους.
 - 🔎 **Αντικείμενα που χρησιμοποιείς.** Κρατάς τον φακό ή το κερί και τα δοκιμάζεις πάνω σε ό,τι βρεις.
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
 - 🎧 **Ήχος με κατεύθυνση.** Βήματα και θόρυβοι ακούγονται από το σημείο τους μέσα στο δωμάτιο.
@@ -116,6 +117,7 @@ And the past is not the only thing hiding in this room.
 - 🔎 **Items you use:** hold the lens or the candle and try them on what you find.
 - 📓 **A notebook:** whatever you read is written down by itself, so you need no pen and paper.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
+- 🚪 **Three rooms, an ending you choose.** The study, the cellar and what lies behind the last door. The story closes in two ways.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
 - 🎙️ **Narration** in Greek and English, with cinematic scenes.
 - 💡 **Hints** that nudge you without spoiling the answer.
