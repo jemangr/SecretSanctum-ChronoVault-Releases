@@ -44,6 +44,9 @@
     <td><img src="assets/screenshots/05-another-era.jpg" alt="Άλλη εποχή"/><br/><sub><b>Το ίδιο δωμάτιο, άλλη εποχή.</b> Ο Χρονικός Φακός αλλάζει τα πάντα.</sub></td>
     <td><img src="assets/screenshots/06-menu.jpg" alt="Το μενού"/><br/><sub><b>Το μενού.</b> Ελληνικά ή αγγλικά, με μία επιλογή.</sub></td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/screenshots/07-rift-hall.jpg" alt="Η Αίθουσα του Ρήγματος" width="50%"/><br/><sub><b>Η Αίθουσα του Ρήγματος.</b> Ένα δωμάτιο, δύο χρονιές και μια γραμμή που γυρίζει.</sub></td>
+  </tr>
 </table>
 
 ### ✨ Τι θα βρεις
