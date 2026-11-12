@@ -48,6 +48,10 @@
     <td><img src="assets/screenshots/07-rift-hall.jpg" alt="Η Αίθουσα του Ρήγματος"/><br/><sub><b>Η Αίθουσα του Ρήγματος.</b> Ένα δωμάτιο, δύο χρονιές και μια γραμμή που γυρίζει.</sub></td>
     <td><img src="assets/screenshots/08-hieronymus.jpg" alt="Ο Ιερώνυμος Vance"/><br/><sub><b>Ο Ιερώνυμος Vance.</b> Ο πρόγονος του πορτρέτου βαριέται εδώ και 170 χρόνια.</sub></td>
   </tr>
+  <tr>
+    <td><img src="assets/screenshots/10-greenhouse-1912.jpg" alt="Το Θερμοκήπιο"/><br/><sub><b>Το Θερμοκήπιο.</b> Σίδερο και γυαλί κάτω από το σπίτι, φυτά, κισσός, και μια πόρτα πνιγμένη στις ρίζες.</sub></td>
+    <td><img src="assets/screenshots/09-greenhouse.jpg" alt="Το δέντρο το 1923"/><br/><sub><b>Αιτία και αποτέλεσμα.</b> Φύτεψε το 1895, και το 1923 το δέντρο έχει μεγαλώσει.</sub></td>
+  </tr>
 </table>
 
 ### ✨ Τι θα βρεις
@@ -57,7 +61,8 @@
 - ⏳ **Ο Χρονικός Φακός είναι ροοστάτης.** Σέρνεις το δάχτυλο από το 1895 ως το 1960 και το φως του δωματίου αλλάζει μαζί του. Πέντε χρονιές να σταθείς (1895, 1912, 1923, 1941, 1960), η καθεμία με τα δικά της μυστικά, και πέρα από τις άκρες το Κενό.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
-- 🚪 **Τρία δωμάτια, ένα τέλος που διαλέγεις.** Το γραφείο, το υπόγειο και ό,τι κρύβεται πίσω από την τελευταία πόρτα. Η ιστορία κλείνει με δύο τρόπους.
+- 🚪 **Τέσσερις πράξεις, και η ιστορία συνεχίζει.** Το γραφείο, το υπόγειο, η Αίθουσα του Ρήγματος με το τέλος που διαλέγεις, και ένα θερμοκήπιο κάτω από το σπίτι.
+- 🌱 **Αιτία και αποτέλεσμα στον χρόνο.** Ό,τι κάνεις σε μια χρονιά φαίνεται στις επόμενες: φύτεψε έναν σπόρο το 1895 και δες τι έχει γίνει το 1941.
 - 🔎 **Αντικείμενα που χρησιμοποιείς.** Κρατάς τον φακό ή το κερί και τα δοκιμάζεις πάνω σε ό,τι βρεις.
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
 - 🎧 **Ήχος με κατεύθυνση.** Βήματα και θόρυβοι ακούγονται από το σημείο τους μέσα στο δωμάτιο.
@@ -75,7 +80,7 @@
 |---|---|
 | **Λήψη** | **[📲 SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (πάντα η τελευταία έκδοση) |
 | **Συσκευές** | Android 8.0 ή νεότερο, σε οριζόντια θέση |
-| **Μέγεθος** | περίπου 104 MB |
+| **Μέγεθος** | περίπου 110 MB |
 
 1. Πάτα το κουμπί λήψης από το κινητό σου.
 2. Άνοιξε το αρχείο που κατέβηκε και πάτα **Εγκατάσταση**. Αν σου ζητηθεί, επίτρεψε την εγκατάσταση από αυτή την πηγή.
@@ -123,7 +128,8 @@ And the past is not the only thing hiding in this room.
 - 🔎 **Items you use:** hold the lens or the candle and try them on what you find.
 - 📓 **A notebook:** whatever you read is written down by itself, so you need no pen and paper.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
-- 🚪 **Three rooms, an ending you choose.** The study, the cellar and what lies behind the last door. The story closes in two ways.
+- 🚪 **Four acts, and the story goes on.** The study, the cellar, the Hall of the Rift with the ending you choose, and a greenhouse under the house.
+- 🌱 **Cause and effect in time.** What you do in one year shows in the later ones: plant a seed in 1895 and see what it has become by 1941.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
 - 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
 - 🎙️ **Narration** with cinematic scenes.
@@ -134,7 +140,7 @@ And the past is not the only thing hiding in this room.
 
 ### 📥 Install
 
-**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 104 MB.
+**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 110 MB.
 
 1. Tap the download button on your phone.
 2. Open the downloaded file and tap **Install**. If asked, allow installs from this source.
