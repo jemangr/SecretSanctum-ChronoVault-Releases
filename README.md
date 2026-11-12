@@ -37,11 +37,11 @@
     <td width="50%"><img src="assets/screenshots/02-hearth.jpg" alt="Το τζάκι"/><br/><sub><b>Το τζάκι.</b> Φωτιά, σπίθες και ο ήχος της βροχής στο τζάμι.</sub></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshots/03-chrono-vault.jpg" alt="Το Χρονο-Κιβώτιο"/><br/><sub><b>Το Χρονο-Κιβώτιο.</b> Κλειδωμένο. Για την ώρα.</sub></td>
+    <td><img src="assets/screenshots/03-chrono-vault.jpg" alt="Το Χρονο-Κιβώτιο"/><br/><sub><b>Το Χρονο-Κιβώτιο.</b> Τρία στάδια: γράμματα, μηχανισμός, και ένα συρτάρι που ανοίγει μόνο μία χρονιά.</sub></td>
     <td><img src="assets/screenshots/04-desk.jpg" alt="Το γραφείο"/><br/><sub><b>Το γραφείο του καθηγητή.</b> Χαρτιά, όργανα και ένα παράθυρο στη νύχτα.</sub></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshots/05-another-era.jpg" alt="Άλλη εποχή"/><br/><sub><b>Το ίδιο δωμάτιο, άλλη εποχή.</b> Ο Χρονικός Φακός αλλάζει τα πάντα.</sub></td>
+    <td><img src="assets/screenshots/05-another-era.jpg" alt="Άλλη εποχή"/><br/><sub><b>Ο ροοστάτης του χρόνου.</b> Σέρνεις τα χρόνια και το δωμάτιο αλλάζει μαζί σου: εδώ, το 1912.</sub></td>
     <td><img src="assets/screenshots/06-menu.jpg" alt="Το μενού"/><br/><sub><b>Το μενού.</b> Τέσσερις γλώσσες, με ένα πάτημα σε σημαία.</sub></td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@
 
 - 🕯️ **Ένα δωμάτιο που ζει.** Φωτιά που τρίζει, εκκρεμές, βροχή στο τζάμι, σκόνη στο φως. Ηχογραφημένος ήχος σε κάθε χώρο. Παίζεται καλύτερα με ακουστικά.
 - 🔍 **Εξέταση από κοντά.** Πάτα ένα σημείο που λάμπει και η κάμερα πηγαίνει κοντά. Ανοίγεις συρτάρια, γυρίζεις δίσκους, διαβάζεις σημειώματα.
-- ⏳ **Ο Χρονικός Φακός.** Το ίδιο δωμάτιο σε άλλη εποχή, με άλλα φώτα, άλλη ατμόσφαιρα και άλλα μυστικά.
+- ⏳ **Ο Χρονικός Φακός είναι ροοστάτης.** Σέρνεις το δάχτυλο από το 1895 ως το 1960 και το φως του δωματίου αλλάζει μαζί του. Πέντε χρονιές να σταθείς (1895, 1912, 1923, 1941, 1960), η καθεμία με τα δικά της μυστικά, και πέρα από τις άκρες το Κενό.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
 - 🚪 **Τρία δωμάτια, ένα τέλος που διαλέγεις.** Το γραφείο, το υπόγειο και ό,τι κρύβεται πίσω από την τελευταία πόρτα. Η ιστορία κλείνει με δύο τρόπους.
@@ -117,7 +117,7 @@ And the past is not the only thing hiding in this room.
 
 - 🕯️ **A room that feels alive:** a crackling fire, a ticking pendulum, rain on the window, dust in the light. Recorded sound in every space. Best with headphones.
 - 🔍 **Close-up inspection:** tap a glowing spot and the camera moves in. Open drawers, turn dials, read notes.
-- ⏳ **The Chrono Lens:** the same room in another era, with different light, mood and secrets.
+- ⏳ **The Chrono Lens is a dial:** drag your finger from 1895 to 1960 and the light of the room changes with it. Five years to stop on (1895, 1912, 1923, 1941, 1960), each with its own secrets, and past either end the Void.
 - 🧩 **Puzzles that connect:** a clue here opens something there.
 - 📖 **Vance's story**, piece by piece, in notes, discarded drafts and journal pages.
 - 🔎 **Items you use:** hold the lens or the candle and try them on what you find.
