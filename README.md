@@ -61,7 +61,8 @@
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
 - 🎧 **Ήχος με κατεύθυνση.** Βήματα και θόρυβοι ακούγονται από το σημείο τους μέσα στο δωμάτιο.
 - 🔠 **Μεγάλα, ευανάγνωστα γράμματα** στο κινητό, και ένα μάτι που κρύβει τα εργαλεία, για να βλέπεις καθαρά το δωμάτιο.
-- 🎙️ **Αφήγηση** σε ελληνικά και αγγλικά, με κινηματογραφικές σκηνές.
+- 🌍 **Τέσσερις γλώσσες:** ελληνικά, αγγλικά, γερμανικά και γαλλικά (κείμενα και αφήγηση).
+- 🎙️ **Αφήγηση** με κινηματογραφικές σκηνές.
 - 💡 **Βοήθειες** όταν κολλήσεις, που σε σπρώχνουν χωρίς να σου χαλάνε τη λύση.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
 - 📶 **Παίζεται χωρίς internet.** Χωρίς λογαριασμό, χωρίς εγγραφή.
@@ -72,7 +73,7 @@
 |---|---|
 | **Λήψη** | **[📲 SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (πάντα η τελευταία έκδοση) |
 | **Συσκευές** | Android 8.0 ή νεότερο, σε οριζόντια θέση |
-| **Μέγεθος** | περίπου 102 MB |
+| **Μέγεθος** | περίπου 104 MB |
 
 1. Πάτα το κουμπί λήψης από το κινητό σου.
 2. Άνοιξε το αρχείο που κατέβηκε και πάτα **Εγκατάσταση**. Αν σου ζητηθεί, επίτρεψε την εγκατάσταση από αυτή την πηγή.
@@ -91,7 +92,7 @@
 
 Μέσα από το παιχνίδι: **Ρυθμίσεις → Ενημερώσεις & αναφορά προβλήματος → Αναφορά προβλήματος**. Γράφεις τι έγινε και το στέλνεις με email. Μπαίνουν μόνο η έκδοση, το μοντέλο του κινητού, η πρόοδος στο παιχνίδι και τα τεχνικά σφάλματα, ποτέ προσωπικά στοιχεία.
 
-Μπορείς επίσης να γράψεις στο **info@3wsol.gr**.
+Μπορείς επίσης να γράψεις στο **support@jemangr.app**.
 
 ### 🔒 Απόρρητο
 
@@ -122,7 +123,8 @@ And the past is not the only thing hiding in this room.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
 - 🚪 **Three rooms, an ending you choose.** The study, the cellar and what lies behind the last door. The story closes in two ways.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
-- 🎙️ **Narration** in Greek and English, with cinematic scenes.
+- 🌍 **Four languages:** Greek, English, German and French (text and narration).
+- 🎙️ **Narration** with cinematic scenes.
 - 💡 **Hints** that nudge you without spoiling the answer.
 - 📳 **Haptics** on levers, switches and locks.
 - 📶 **Plays offline.** No account, no sign-up.
@@ -143,7 +145,7 @@ Since **1.9.1** the game checks for new versions by itself and downloads them fr
 
 ### 🐞 Found a problem?
 
-In the game: **Settings → Updates & problem reports → Report a problem**. Only the version, phone model, game progress and technical errors are added, never anything personal. Or write to **info@3wsol.gr**.
+In the game: **Settings → Updates & problem reports → Report a problem**. Only the version, phone model, game progress and technical errors are added, never anything personal. Or write to **support@jemangr.app**.
 
 ### 🔒 Privacy
 
