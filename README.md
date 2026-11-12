@@ -52,6 +52,10 @@
     <td><img src="assets/screenshots/10-greenhouse-1912.jpg" alt="Το Θερμοκήπιο"/><br/><sub><b>Το Θερμοκήπιο.</b> Σίδερο και γυαλί κάτω από το σπίτι, φυτά, κισσός, και μια πόρτα πνιγμένη στις ρίζες.</sub></td>
     <td><img src="assets/screenshots/09-greenhouse.jpg" alt="Το δέντρο το 1923"/><br/><sub><b>Αιτία και αποτέλεσμα.</b> Φύτεψε το 1895, και το 1923 το δέντρο έχει μεγαλώσει.</sub></td>
   </tr>
+  <tr>
+    <td><img src="assets/screenshots/11-clock-tower.jpg" alt="Ο Πύργος του Ρολογιού"/><br/><sub><b>Ο Πύργος του Ρολογιού.</b> Ο μηχανισμός σταματά σε ένα κενό. Ένας τροχός λείπει.</sub></td>
+    <td><img src="assets/screenshots/12-tower-watch-floor.jpg" alt="Ο πύργος το 1912"/><br/><sub><b>Ο δρόμος προς τα πάνω.</b> Το 1912 υπάρχει σκάλα. Το 1895 δεν υπάρχει τίποτα.</sub></td>
+  </tr>
 </table>
 
 ### ✨ Τι θα βρεις
@@ -61,7 +65,7 @@
 - ⏳ **Ο Χρονικός Φακός είναι ροοστάτης.** Σέρνεις το δάχτυλο από το 1895 ως το 1960 και το φως του δωματίου αλλάζει μαζί του. Πέντε χρονιές να σταθείς (1895, 1912, 1923, 1941, 1960), η καθεμία με τα δικά της μυστικά, και πέρα από τις άκρες το Κενό.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
-- 🚪 **Τέσσερις πράξεις, και η ιστορία συνεχίζει.** Το γραφείο, το υπόγειο, η Αίθουσα του Ρήγματος με το τέλος που διαλέγεις, και ένα θερμοκήπιο κάτω από το σπίτι.
+- 🚪 **Πέντε πράξεις, και η ιστορία συνεχίζει.** Το γραφείο, το υπόγειο, η Αίθουσα του Ρήγματος με το τέλος που διαλέγεις, ένα θερμοκήπιο κάτω από το σπίτι και ο πύργος του ρολογιού.
 - 🌱 **Αιτία και αποτέλεσμα στον χρόνο.** Ό,τι κάνεις σε μια χρονιά φαίνεται στις επόμενες: φύτεψε έναν σπόρο το 1895 και δες τι έχει γίνει το 1941.
 - 🔎 **Αντικείμενα που χρησιμοποιείς.** Κρατάς τον φακό ή το κερί και τα δοκιμάζεις πάνω σε ό,τι βρεις.
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
@@ -128,7 +132,7 @@ And the past is not the only thing hiding in this room.
 - 🔎 **Items you use:** hold the lens or the candle and try them on what you find.
 - 📓 **A notebook:** whatever you read is written down by itself, so you need no pen and paper.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
-- 🚪 **Four acts, and the story goes on.** The study, the cellar, the Hall of the Rift with the ending you choose, and a greenhouse under the house.
+- 🚪 **Five acts, and the story goes on.** The study, the cellar, the Hall of the Rift with the ending you choose, a greenhouse under the house and the clock tower.
 - 🌱 **Cause and effect in time.** What you do in one year shows in the later ones: plant a seed in 1895 and see what it has become by 1941.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
 - 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
