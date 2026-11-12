@@ -131,7 +131,7 @@ And the past is not the only thing hiding in this room.
 
 ### 📥 Install
 
-**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 102 MB.
+**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 104 MB.
 
 1. Tap the download button on your phone.
 2. Open the downloaded file and tap **Install**. If asked, allow installs from this source.
