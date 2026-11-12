@@ -42,10 +42,11 @@
   </tr>
   <tr>
     <td><img src="assets/screenshots/05-another-era.jpg" alt="Άλλη εποχή"/><br/><sub><b>Το ίδιο δωμάτιο, άλλη εποχή.</b> Ο Χρονικός Φακός αλλάζει τα πάντα.</sub></td>
-    <td><img src="assets/screenshots/06-menu.jpg" alt="Το μενού"/><br/><sub><b>Το μενού.</b> Ελληνικά ή αγγλικά, με μία επιλογή.</sub></td>
+    <td><img src="assets/screenshots/06-menu.jpg" alt="Το μενού"/><br/><sub><b>Το μενού.</b> Τέσσερις γλώσσες, με ένα πάτημα σε σημαία.</sub></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="assets/screenshots/07-rift-hall.jpg" alt="Η Αίθουσα του Ρήγματος" width="50%"/><br/><sub><b>Η Αίθουσα του Ρήγματος.</b> Ένα δωμάτιο, δύο χρονιές και μια γραμμή που γυρίζει.</sub></td>
+    <td><img src="assets/screenshots/07-rift-hall.jpg" alt="Η Αίθουσα του Ρήγματος"/><br/><sub><b>Η Αίθουσα του Ρήγματος.</b> Ένα δωμάτιο, δύο χρονιές και μια γραμμή που γυρίζει.</sub></td>
+    <td><img src="assets/screenshots/08-hieronymus.jpg" alt="Ο Ιερώνυμος Vance"/><br/><sub><b>Ο Ιερώνυμος Vance.</b> Ο πρόγονος του πορτρέτου βαριέται εδώ και 170 χρόνια.</sub></td>
   </tr>
 </table>
 
@@ -63,7 +64,8 @@
 - 🔠 **Μεγάλα, ευανάγνωστα γράμματα** στο κινητό, και ένα μάτι που κρύβει τα εργαλεία, για να βλέπεις καθαρά το δωμάτιο.
 - 🌍 **Τέσσερις γλώσσες:** ελληνικά, αγγλικά, γερμανικά και γαλλικά (κείμενα και αφήγηση). Η γλώσσα αλλάζει με ένα πάτημα σε σημαία, από το αρχικό μενού.
 - 🎙️ **Αφήγηση** με κινηματογραφικές σκηνές.
-- 💡 **Βοήθειες** όταν κολλήσεις, που σε σπρώχνουν χωρίς να σου χαλάνε τη λύση.
+- 🖼️ **Ο Ιερώνυμος Vance**, ο πρόγονος του πορτρέτου (1790), μιλάει: ματαιόδοξος, ειρωνικός, και ο μόνος που δεν λέει ποτέ ψέματα. Η βοήθεια έρχεται από αυτόν: το μενταγιόν του λάμπει όταν κολλήσεις, και σε σπρώχνει χωρίς να σου χαλάει τη λύση.
+- ✋ **Ό,τι συμβαίνει, φαίνεται.** Το βιβλίο γλιστράει και φανερώνει το κλειδί, το γρανάζι βγαίνει από το ρολόι. Το παίρνεις εσύ.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
 - 📶 **Παίζεται χωρίς internet.** Χωρίς λογαριασμό, χωρίς εγγραφή.
 
@@ -125,7 +127,8 @@ And the past is not the only thing hiding in this room.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
 - 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
 - 🎙️ **Narration** with cinematic scenes.
-- 💡 **Hints** that nudge you without spoiling the answer.
+- 🖼️ **Hieronymus Vance**, the ancestor in the portrait (1790), speaks: vain, dry, and the only one who never lies. Help comes from him: his medallion glows when you are stuck, and he nudges you without spoiling the answer.
+- ✋ **Whatever happens is shown.** The book slides out to reveal the key, the gear comes out of the clock. You take it yourself.
 - 📳 **Haptics** on levers, switches and locks.
 - 📶 **Plays offline.** No account, no sign-up.
 
