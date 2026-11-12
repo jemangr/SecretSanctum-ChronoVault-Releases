@@ -61,7 +61,7 @@
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
 - 🎧 **Ήχος με κατεύθυνση.** Βήματα και θόρυβοι ακούγονται από το σημείο τους μέσα στο δωμάτιο.
 - 🔠 **Μεγάλα, ευανάγνωστα γράμματα** στο κινητό, και ένα μάτι που κρύβει τα εργαλεία, για να βλέπεις καθαρά το δωμάτιο.
-- 🌍 **Τέσσερις γλώσσες:** ελληνικά, αγγλικά, γερμανικά και γαλλικά (κείμενα και αφήγηση).
+- 🌍 **Τέσσερις γλώσσες:** ελληνικά, αγγλικά, γερμανικά και γαλλικά (κείμενα και αφήγηση). Η γλώσσα αλλάζει με ένα πάτημα σε σημαία, από το αρχικό μενού.
 - 🎙️ **Αφήγηση** με κινηματογραφικές σκηνές.
 - 💡 **Βοήθειες** όταν κολλήσεις, που σε σπρώχνουν χωρίς να σου χαλάνε τη λύση.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
@@ -123,7 +123,7 @@ And the past is not the only thing hiding in this room.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
 - 🚪 **Three rooms, an ending you choose.** The study, the cellar and what lies behind the last door. The story closes in two ways.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
-- 🌍 **Four languages:** Greek, English, German and French (text and narration).
+- 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
 - 🎙️ **Narration** with cinematic scenes.
 - 💡 **Hints** that nudge you without spoiling the answer.
 - 📳 **Haptics** on levers, switches and locks.
