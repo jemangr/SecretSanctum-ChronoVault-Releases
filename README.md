@@ -65,7 +65,7 @@
 - ⏳ **Ο Χρονικός Φακός είναι ροοστάτης.** Σέρνεις το δάχτυλο από το 1895 ως το 1960 και το φως του δωματίου αλλάζει μαζί του. Πέντε χρονιές να σταθείς (1895, 1912, 1923, 1941, 1960), η καθεμία με τα δικά της μυστικά, και πέρα από τις άκρες το Κενό.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
-- 🚪 **Πέντε πράξεις, και η ιστορία συνεχίζει.** Το γραφείο, το υπόγειο, η Αίθουσα του Ρήγματος με το τέλος που διαλέγεις, ένα θερμοκήπιο κάτω από το σπίτι και ο πύργος του ρολογιού.
+- 🚪 **Έξι πράξεις και ένα φινάλε με τρία τέλη.** Το γραφείο, το υπόγειο, η Αίθουσα του Ρήγματος, ένα θερμοκήπιο κάτω από το σπίτι, ο πύργος του ρολογιού, και ό,τι υπάρχει πέρα από το 1960.
 - 🌱 **Αιτία και αποτέλεσμα στον χρόνο.** Ό,τι κάνεις σε μια χρονιά φαίνεται στις επόμενες: φύτεψε έναν σπόρο το 1895 και δες τι έχει γίνει το 1941.
 - 🔎 **Αντικείμενα που χρησιμοποιείς.** Κρατάς τον φακό ή το κερί και τα δοκιμάζεις πάνω σε ό,τι βρεις.
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
@@ -132,7 +132,7 @@ And the past is not the only thing hiding in this room.
 - 🔎 **Items you use:** hold the lens or the candle and try them on what you find.
 - 📓 **A notebook:** whatever you read is written down by itself, so you need no pen and paper.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
-- 🚪 **Five acts, and the story goes on.** The study, the cellar, the Hall of the Rift with the ending you choose, a greenhouse under the house and the clock tower.
+- 🚪 **Six acts and a finale with three endings.** The study, the cellar, the Hall of the Rift, a greenhouse under the house, the clock tower, and whatever lies past 1960.
 - 🌱 **Cause and effect in time.** What you do in one year shows in the later ones: plant a seed in 1895 and see what it has become by 1941.
 - 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
 - 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
