@@ -20,9 +20,9 @@
 
 ## 🇬🇷 Ελληνικά
 
-> *Οκτώβριος 1895. Το εργαστήριο του καθηγητή Vance είναι ζεστό ακόμα· η φωτιά καίει, το εκκρεμές χτυπά. Ο ίδιος έχει εξαφανιστεί. Η βαριά πόρτα είναι σφραγισμένη, και κάτι στο δωμάτιο δεν ανήκει σε αυτή την εποχή.*
+> *Οκτώβριος 1895. Το γραφείο του καθηγητή Vance είναι ζεστό ακόμα· η φωτιά καίει, το εκκρεμές χτυπά. Ο ίδιος έχει εξαφανιστεί. Η βαριά πόρτα είναι σφραγισμένη, και κάτι στο δωμάτιο δεν ανήκει σε αυτή την εποχή.*
 
-Το **Secret Sanctum: Chrono Vault** είναι ένα σκοτεινό, ατμοσφαιρικό 3D δωμάτιο απόδρασης για Android. Εξερευνάς ένα βικτωριανό εργαστήριο, εξετάζεις κάθε αντικείμενο από κοντά, ενώνεις στοιχεία και λύνεις γρίφους που συνδέονται μεταξύ τους. Με τον **Χρονικό Φακό** βλέπεις το ίδιο δωμάτιο σε άλλη εποχή, και ό,τι κρύβει το παρελθόν μπορεί να φαίνεται μόνο εκεί.
+Το **Secret Sanctum: Chrono Vault** είναι ένα σκοτεινό, ατμοσφαιρικό 3D δωμάτιο απόδρασης για Android. Εξερευνάς ένα βικτωριανό γραφείο, εξετάζεις κάθε αντικείμενο από κοντά, ενώνεις στοιχεία και λύνεις γρίφους που συνδέονται μεταξύ τους. Με τον **Χρονικό Φακό** βλέπεις το ίδιο δωμάτιο σε άλλη εποχή, και ό,τι κρύβει το παρελθόν μπορεί να φαίνεται μόνο εκεί.
 
 Και δεν είναι μόνο το παρελθόν που κρύβεται σε αυτό το δωμάτιο.
 
@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/screenshots/01-study.jpg" alt="Το εργαστήριο"/><br/><sub><b>Το εργαστήριο.</b> Κάθε γωνιά κρύβει κάτι.</sub></td>
+    <td width="50%"><img src="assets/screenshots/01-study.jpg" alt="Το μυστικό γραφείο"/><br/><sub><b>Το μυστικό γραφείο.</b> Κάθε γωνιά κρύβει κάτι.</sub></td>
     <td width="50%"><img src="assets/screenshots/02-hearth.jpg" alt="Το τζάκι"/><br/><sub><b>Το τζάκι.</b> Φωτιά, σπίθες και ο ήχος της βροχής στο τζάμι.</sub></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
 - ⏳ **Ο Χρονικός Φακός είναι ροοστάτης.** Σέρνεις το δάχτυλο από το 1895 ως το 1960 και το φως του δωματίου αλλάζει μαζί του. Πέντε χρονιές να σταθείς (1895, 1912, 1923, 1941, 1960), η καθεμία με τα δικά της μυστικά, και πέρα από τις άκρες το Κενό.
 - 🧩 **Γρίφοι που δένουν μεταξύ τους.** Ένα στοιχείο εδώ ανοίγει κάτι εκεί. Τίποτα δεν είναι διακοσμητικό χωρίς λόγο.
 - 📖 **Η ιστορία του Vance**, κομμάτι κομμάτι, σε σημειώματα, πεταμένα πρόχειρα και σελίδες ημερολογίου.
-- 🎬 **Ένας πρόλογος στο 1960.** Λονδίνο, ένα τηλεφώνημα για μια κληρονομιά, ο δρόμος στη βροχή ως το Γκρέιβσεντ, μια αλυσίδα στην πύλη και η αυλή του σπιτιού πριν ανοίξει η εξώπορτα.
+- 🎬 **Ένας πρόλογος στο 1960.** Λονδίνο, ένα τηλεφώνημα για μια κληρονομιά, ο δρόμος στη βροχή ως το Γκρέιβσεντ, μια αλυσίδα στην πύλη και η αυλή του σπιτιού πριν ανοίξει η εξώπορτα. Ο Θωμάς και ο δικηγόρος μιλάνε με φωνή, σε όλες τις γλώσσες, και τους βλέπεις ζωγραφισμένους όταν μιλάνε.
 - 🚪 **Έξι πράξεις και ένα φινάλε με τρία τέλη.** Το γραφείο, το υπόγειο, η Αίθουσα του Ρήγματος, ένα θερμοκήπιο κάτω από το σπίτι, ο πύργος του ρολογιού, και ό,τι υπάρχει πέρα από το 1960.
 - 🗂️ **Επιλογή θαλάμου.** Από το αρχικό μενού ξαναπαίζεις τον πρόλογο ή πηγαίνεις κατευθείαν σε όποιον θάλαμο θες.
 - 🌱 **Αιτία και αποτέλεσμα στον χρόνο.** Ό,τι κάνεις σε μια χρονιά φαίνεται στις επόμενες: φύτεψε έναν σπόρο το 1895 και δες τι έχει γίνει το 1941.
@@ -141,7 +141,7 @@ And the past is not the only thing hiding in this room.
 - 🔎 **Items you use:** hold the lens or the candle and try them on what you find.
 - 📓 **A notebook:** whatever you read is written down by itself, so you need no pen and paper.
 - 🎧 **Sound with direction:** footsteps and noises come from where they are in the room.
-- 🎬 **A prologue in 1960.** London, a phone call about an inheritance, the drive through the rain to Gravesend, a chain on the gate and the courtyard of the house before the front door opens.
+- 🎬 **A prologue in 1960.** London, a phone call about an inheritance, the drive through the rain to Gravesend, a chain on the gate and the courtyard of the house before the front door opens. Thomas and the solicitor speak aloud in every language, and appear painted on screen when they talk.
 - 🚪 **Six acts and a finale with three endings.** The study, the cellar, the Hall of the Rift, a greenhouse under the house, the clock tower, and whatever lies past 1960.
 - 🗂️ **Chamber select.** From the main menu, replay the prologue or go straight to any chamber.
 - 🌱 **Cause and effect in time.** What you do in one year shows in the later ones: plant a seed in 1895 and see what it has become by 1941.
