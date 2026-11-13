@@ -60,6 +60,9 @@
     <td><img src="assets/screenshots/13-prologue-office.jpg" alt="Λονδίνο, 1960"/><br/><sub><b>Λονδίνο, Οκτώβριος 1960.</b> Ένα τηλεφώνημα, ένα κλειδί και ένα σπίτι που περιμένει.</sub></td>
     <td><img src="assets/screenshots/14-prologue-courtyard.jpg" alt="Η αυλή του σπιτιού"/><br/><sub><b>Η αυλή.</b> Βροχή, γυμνά δέντρα, ο δρόμος ως την εξώπορτα και το σπίτι που άφησε ο θείος.</sub></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="assets/screenshots/15-heart-of-the-void.jpg" alt="Η Καρδιά του Κενού"/><br/><sub><b>Η Καρδιά του Κενού.</b> Η σκιά κρατά το ρήγμα κλειστό, η Ελεονόρα περιμένει, και γύρω αιωρούνται όσα κατάπιε το Κενό από το σπίτι.</sub></td>
+  </tr>
 </table>
 
 ### ✨ Τι θα βρεις
