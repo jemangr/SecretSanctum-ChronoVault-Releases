@@ -79,7 +79,7 @@
 - 🔎 **Αντικείμενα που χρησιμοποιείς.** Κρατάς τον φακό ή το κερί και τα δοκιμάζεις πάνω σε ό,τι βρεις.
 - 📓 **Σημειωματάριο.** Ό,τι διαβάζεις γράφεται μόνο του, για να μη χρειάζεται χαρτί και μολύβι.
 - 🎧 **Ήχος με κατεύθυνση.** Βήματα και θόρυβοι ακούγονται από το σημείο τους μέσα στο δωμάτιο.
-- 🔠 **Μεγάλα, ευανάγνωστα γράμματα** στο κινητό, και ένα μάτι που κρύβει τα εργαλεία, για να βλέπεις καθαρά το δωμάτιο.
+- 🔠 **Μεγάλα, ευανάγνωστα γράμματα** στο κινητό, και διάφανα γυάλινα κουμπιά με εικονίδια που αφήνουν το δωμάτιο να φαίνεται (κράτα πατημένο ένα κουμπί για να δεις το όνομά του). Ένα μάτι κρύβει τα εργαλεία που δεν χρειάζεσαι.
 - 🌍 **Τέσσερις γλώσσες:** ελληνικά, αγγλικά, γερμανικά και γαλλικά (κείμενα και αφήγηση). Η γλώσσα αλλάζει με ένα πάτημα σε σημαία, από το αρχικό μενού.
 - 🎙️ **Αφήγηση** με κινηματογραφικές σκηνές.
 - 🖼️ **Ο Ιερώνυμος Vance**, ο πρόγονος του πορτρέτου (1790), μιλάει, και με φωνή: ματαιόδοξος, ειρωνικός, και ο μόνος που δεν λέει ποτέ ψέματα. Η βοήθεια έρχεται από αυτόν: το μενταγιόν του λάμπει όταν κολλήσεις, και σε σπρώχνει χωρίς να σου χαλάει τη λύση.
@@ -145,7 +145,7 @@ And the past is not the only thing hiding in this room.
 - 🚪 **Six acts and a finale with three endings.** The study, the cellar, the Hall of the Rift, a greenhouse under the house, the clock tower, and whatever lies past 1960.
 - 🗂️ **Chamber select.** From the main menu, replay the prologue or go straight to any chamber.
 - 🌱 **Cause and effect in time.** What you do in one year shows in the later ones: plant a seed in 1895 and see what it has become by 1941.
-- 🔠 **Large, readable text** on phones, and an eye button that hides the tools so you can see the room clearly.
+- 🔠 **Large, readable text** on phones, and see-through glass buttons with icons that leave the room in view (hold a button to see its name). An eye hides the tools you don't need.
 - 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
 - 🎙️ **Narration** with cinematic scenes.
 - 🖼️ **Hieronymus Vance**, the ancestor in the portrait (1790), speaks: vain, dry, and the only one who never lies. Help comes from him: his medallion glows when you are stuck, and he nudges you without spoiling the answer.
