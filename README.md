@@ -83,6 +83,7 @@
 - 🌍 **Τέσσερις γλώσσες:** ελληνικά, αγγλικά, γερμανικά και γαλλικά (κείμενα και αφήγηση). Η γλώσσα αλλάζει με ένα πάτημα σε σημαία, από το αρχικό μενού.
 - 🎙️ **Αφήγηση** με κινηματογραφικές σκηνές.
 - 🖼️ **Ο Ιερώνυμος Vance**, ο πρόγονος του πορτρέτου (1790), μιλάει, και με φωνή: ματαιόδοξος, ειρωνικός, και ο μόνος που δεν λέει ποτέ ψέματα. Η βοήθεια έρχεται από αυτόν: το μενταγιόν του λάμπει όταν κολλήσεις, και σε σπρώχνει χωρίς να σου χαλάει τη λύση.
+- 📜 **Η Ελεονόρα διαβάζει φωναχτά** τα έγγραφα και τα γραπτά που βρίσκεις, σε όλες τις γλώσσες (απενεργοποιείται από τις Ρυθμίσεις). Να προσέχεις όμως τι γράφει το χαρτί.
 - ✋ **Ό,τι συμβαίνει, φαίνεται.** Το βιβλίο γλιστράει και φανερώνει το κλειδί, το γρανάζι βγαίνει από το ρολόι. Το παίρνεις εσύ.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
 - 📶 **Παίζεται χωρίς internet.** Χωρίς λογαριασμό, χωρίς εγγραφή.
@@ -93,7 +94,7 @@
 |---|---|
 | **Λήψη** | **[📲 SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (πάντα η τελευταία έκδοση) |
 | **Συσκευές** | Android 8.0 ή νεότερο, σε οριζόντια θέση |
-| **Μέγεθος** | περίπου 110 MB |
+| **Μέγεθος** | περίπου 165 MB |
 
 1. Πάτα το κουμπί λήψης από το κινητό σου.
 2. Άνοιξε το αρχείο που κατέβηκε και πάτα **Εγκατάσταση**. Αν σου ζητηθεί, επίτρεψε την εγκατάσταση από αυτή την πηγή.
@@ -149,13 +150,14 @@ And the past is not the only thing hiding in this room.
 - 🌍 **Four languages:** Greek, English, German and French (text and narration). The language changes with one tap on a flag, from the main menu.
 - 🎙️ **Narration** with cinematic scenes.
 - 🖼️ **Hieronymus Vance**, the ancestor in the portrait (1790), speaks: vain, dry, and the only one who never lies. Help comes from him: his medallion glows when you are stuck, and he nudges you without spoiling the answer.
+- 📜 **Eleanor reads aloud** the documents and writings you find, in every language (can be turned off in Settings). Do mind what the paper says, though.
 - ✋ **Whatever happens is shown.** The book slides out to reveal the key, the gear comes out of the clock. You take it yourself.
 - 📳 **Haptics** on levers, switches and locks.
 - 📶 **Plays offline.** No account, no sign-up.
 
 ### 📥 Install
 
-**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 110 MB.
+**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 165 MB.
 
 1. Tap the download button on your phone.
 2. Open the downloaded file and tap **Install**. If asked, allow installs from this source.
