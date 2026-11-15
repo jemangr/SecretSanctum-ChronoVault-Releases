@@ -8,7 +8,7 @@
 [![Τελευταία έκδοση](https://img.shields.io/github/v/release/jemangr/SecretSanctum-ChronoVault-Releases?style=for-the-badge&label=%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7&color=B8862F)](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest)
 
 ![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3C2A1A?style=flat-square)
-![Ελληνικά & English](https://img.shields.io/badge/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%26_English-3C2A1A?style=flat-square)
+![Ελληνικά · English · Deutsch · Français](https://img.shields.io/badge/EL_%C2%B7_EN_%C2%B7_DE_%C2%B7_FR-3C2A1A?style=flat-square)
 ![Offline](https://img.shields.io/badge/%CF%80%CE%B1%CE%AF%CE%B6%CE%B5%CF%84%CE%B1%CE%B9_offline-3C2A1A?style=flat-square)
 ![Χωρίς λογαριασμό](https://img.shields.io/badge/%CF%87%CF%89%CF%81%CE%AF%CF%82_%CE%BB%CE%BF%CE%B3%CE%B1%CF%81%CE%B9%CE%B1%CF%83%CE%BC%CF%8C-3C2A1A?style=flat-square)
 
@@ -84,6 +84,7 @@
 - 🎙️ **Αφήγηση** με κινηματογραφικές σκηνές.
 - 🖼️ **Ο Ιερώνυμος Vance**, ο πρόγονος του πορτρέτου (1790), μιλάει, και με φωνή: ματαιόδοξος, ειρωνικός, και ο μόνος που δεν λέει ποτέ ψέματα. Η βοήθεια έρχεται από αυτόν: το μενταγιόν του λάμπει όταν κολλήσεις, και σε σπρώχνει χωρίς να σου χαλάει τη λύση.
 - 📜 **Η Ελεονόρα διαβάζει φωναχτά** τα έγγραφα και τα γραπτά που βρίσκεις, σε όλες τις γλώσσες (απενεργοποιείται από τις Ρυθμίσεις). Να προσέχεις όμως τι γράφει το χαρτί.
+- 🔠 **Μεγάλοι υπότιτλοι:** τα λόγια του Ιερώνυμου, του προλόγου και τα μηνύματα μεγαλώνουν από τις **Ρυθμίσεις → Μέγεθος υποτίτλων**.
 - ✋ **Ό,τι συμβαίνει, φαίνεται.** Το βιβλίο γλιστράει και φανερώνει το κλειδί, το γρανάζι βγαίνει από το ρολόι. Το παίρνεις εσύ.
 - 📳 **Δονήσεις** σε μοχλούς, διακόπτες και κλειδαριές.
 - 📶 **Παίζεται χωρίς internet.** Χωρίς λογαριασμό, χωρίς εγγραφή.
@@ -94,7 +95,7 @@
 |---|---|
 | **Λήψη** | **[📲 SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (πάντα η τελευταία έκδοση) |
 | **Συσκευές** | Android 8.0 ή νεότερο, σε οριζόντια θέση |
-| **Μέγεθος** | περίπου 165 MB |
+| **Μέγεθος** | περίπου 125 MB |
 
 1. Πάτα το κουμπί λήψης από το κινητό σου.
 2. Άνοιξε το αρχείο που κατέβηκε και πάτα **Εγκατάσταση**. Αν σου ζητηθεί, επίτρεψε την εγκατάσταση από αυτή την πηγή.
@@ -151,13 +152,14 @@ And the past is not the only thing hiding in this room.
 - 🎙️ **Narration** with cinematic scenes.
 - 🖼️ **Hieronymus Vance**, the ancestor in the portrait (1790), speaks: vain, dry, and the only one who never lies. Help comes from him: his medallion glows when you are stuck, and he nudges you without spoiling the answer.
 - 📜 **Eleanor reads aloud** the documents and writings you find, in every language (can be turned off in Settings). Do mind what the paper says, though.
+- 🔠 **Larger subtitles:** Hieronymus, the prologue and the on-screen messages grow in **Settings → Subtitle size**.
 - ✋ **Whatever happens is shown.** The book slides out to reveal the key, the gear comes out of the clock. You take it yourself.
 - 📳 **Haptics** on levers, switches and locks.
 - 📶 **Plays offline.** No account, no sign-up.
 
 ### 📥 Install
 
-**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 165 MB.
+**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 125 MB.
 
 1. Tap the download button on your phone.
 2. Open the downloaded file and tap **Install**. If asked, allow installs from this source.
