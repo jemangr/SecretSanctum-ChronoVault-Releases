@@ -95,7 +95,7 @@
 |---|---|
 | **Λήψη** | **[📲 SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (πάντα η τελευταία έκδοση) |
 | **Συσκευές** | Android 8.0 ή νεότερο, σε οριζόντια θέση |
-| **Μέγεθος** | περίπου 125 MB |
+| **Μέγεθος** | περίπου 128 MB |
 
 1. Πάτα το κουμπί λήψης από το κινητό σου.
 2. Άνοιξε το αρχείο που κατέβηκε και πάτα **Εγκατάσταση**. Αν σου ζητηθεί, επίτρεψε την εγκατάσταση από αυτή την πηγή.
@@ -159,7 +159,7 @@ And the past is not the only thing hiding in this room.
 
 ### 📥 Install
 
-**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 125 MB.
+**[📲 Download SecretSanctum-ChronoVault.apk](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest/download/SecretSanctum-ChronoVault.apk)** (always the latest version). Android 8.0 or newer, landscape, about 128 MB.
 
 1. Tap the download button on your phone.
 2. Open the downloaded file and tap **Install**. If asked, allow installs from this source.
