@@ -8,7 +8,7 @@
 [![Τελευταία έκδοση](https://img.shields.io/github/v/release/jemangr/SecretSanctum-ChronoVault-Releases?style=for-the-badge&label=%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7&color=B8862F)](https://github.com/jemangr/SecretSanctum-ChronoVault-Releases/releases/latest)
 
 ![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3C2A1A?style=flat-square)
-![Ελληνικά & English](https://img.shields.io/badge/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%26_English-3C2A1A?style=flat-square)
+![Ελληνικά · English · Deutsch · Français](https://img.shields.io/badge/EL_%C2%B7_EN_%C2%B7_DE_%C2%B7_FR-3C2A1A?style=flat-square)
 ![Offline](https://img.shields.io/badge/%CF%80%CE%B1%CE%AF%CE%B6%CE%B5%CF%84%CE%B1%CE%B9_offline-3C2A1A?style=flat-square)
 ![Χωρίς λογαριασμό](https://img.shields.io/badge/%CF%87%CF%89%CF%81%CE%AF%CF%82_%CE%BB%CE%BF%CE%B3%CE%B1%CF%81%CE%B9%CE%B1%CF%83%CE%BC%CF%8C-3C2A1A?style=flat-square)
 
